@@ -20,7 +20,7 @@ p{
     font-size:20px;
 }
 
-section{
+.chamada{
 background-color: rgb(15, 168, 10);
 padding-bottom: 80px;
 display: flex;
@@ -30,5 +30,23 @@ justify-content: center;
 .chamada-texto{
     margin-right: 10%;
 }
+ img{
+    width: 200px;
+    height: 300px;
+ }
 
+ .Outrasrecomendações{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding-left: 20px;
 
+ }
+
+ h2{
+    padding-left: 30px;
+ }
+
+ body{
+    padding-bottom: 40px;
+ }
